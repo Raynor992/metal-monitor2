@@ -1,6 +1,5 @@
-streamlit
-yfinance
-pandas
-plotly
-fredapi
-python-dotenv
+streamlit>=1.25.0
+yfinance>=0.2.37
+pandas>=2.0.0
+plotly>=5.15.0
+fredapi>=0.5.1
